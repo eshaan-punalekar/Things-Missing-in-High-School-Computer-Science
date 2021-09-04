@@ -1,2 +1,3 @@
-# things-missing-in-high-school-computer-science
-This is a guide that explores topics not covered in generic high school computer science courses. Here, I provide resources (blogs, tutorials, guides, etc.) and brief explanations on topics that receive little to no attention in the world of high school CS.
+# Things Missing in High School Computer Science
+
+This is a guide that explores important topics that should be covered in generic high school computer science courses but aren't. In addition to breif explanations, I provide readers with key resources (tutorials, online courses, YouTube videos, articles, research papers, etc.) to help build their knowledge on the topics covered in the guide. These topics include Artificial Intelligence and Machine Learning, Cybersecuirty, Web Development, and more!
