@@ -1,5 +1,7 @@
 # Things Missing in High School Computer Science
 
+_Eshaan Punalekar_
+
 ## Introduction ##
 
 Being a high schooler myself on the computer science path, I often find myself searching for different topics in the field that lie past the scope of generic high school courses (AP Computer Science Principles, AP Computer Science Applications, and any other basic courses your high school offers). However, I firmly believe that these high school courses are much needed to grasp the intricacies of complex computer science topics. Consequently, I have decided to create a comprehensive guide that thoroughly explores topics that I believe every high school student looking to leave college with a CS degree should know of. Throughout this guide, I will be providing links to research papers, courses, blogs, and other websites that will provide you with extra information on the topics covered.
