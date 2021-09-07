@@ -136,7 +136,7 @@ One entry into your computer systems could be physical. In a public workplace, s
 
 Connecting your computer/electronic device to a secured Wifi network is very important because it prevents hackers from accessing your wireless network and stealing data using your Wifi.
 
-6.Passwords
+6. Passwords
 
 This one is quite obvious, but it’s important to change around passwords with different accounts to prevent a hacker from accessing all accounts at once.
 
