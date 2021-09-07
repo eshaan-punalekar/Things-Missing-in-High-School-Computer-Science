@@ -110,27 +110,34 @@ There are numerous reports of companies that have been attacked by hackers/cyber
 So, according to an article by leaf, here are 7 ways that you can protect your systems from cybercriminals.
 
 1. Keep your software and systems fully up to date
+
 Cyber-attacks often occur because many victims’ computer systems are not fully up to date, leaving weaknesses that hackers exploit and gaining access to your network. Once in your device, it is often too late to take preventative action. 
 To counteract this, it’s smart to invest in a patch management system that will manage all your software and system updates, keeping your system resilient and up to date. Other mobile applications like McAfee continuously remind mobile and laptop users to update their software systems.
 Check out McAfee here. McAfee also offers numerous other antivirus features, so you can explore their website to see how these work to gain a deeper understanding of cybersecurity.
 
 2. Ensure Endpoint Protection
+
 According to McAfee, “endpoint security is the practice of securing endpoints or entry points of end-user devices such as desktops, laptops. and mobile devices from being exploited by malicious actors and campaigns. Today’s endpoint protection systems are designed to quickly detect, analyze, block, and contain attacks in progress.”
 Check out ESET endpoint protection here. Their website further explains how endpoint protection works and how it helps protect users and companies.
+
 3. Install a Firewall
+
 Based on a defined set of security rules, a firewall, which is a security network that monitors incoming and outgoing network traffic, decides whether to allow or block specific traffic. This way, a Firewall can protect your device from blocking any malware from entering your system.
 Again, McAfee offers excellent Firewall protection. You can read more about how Firewalls work on their website.
 
-4.Backup your data
+4. Backup your data
+
 In the event of a cyberattack, it is important to have your data backed up to avoid serious downtime, loss of data, and serious financial loss.
 Different ways to backup your data are using a USB stick, an external hard drive, etc.
 Control access to your systems
 One entry into your computer systems could be physical. In a public workplace, someone could stick a USB stick into your computer port without your knowledge. This could download some malware or unwanted software.
 
 5. Wifi security
+
 Connecting your computer/electronic device to a secured Wifi network is very important because it prevents hackers from accessing your wireless network and stealing data using your Wifi.
 
 6.Passwords
+
 This one is quite obvious, but it’s important to change around passwords with different accounts to prevent a hacker from accessing all accounts at once.
 
 Now, this is just the tip of the iceberg. There are so many topics under cybersecurity that I haven’t covered in this section of the guide, however, I will be providing you with resources to help you discover (if you have one) your path in cybersecurity.
