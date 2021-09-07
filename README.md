@@ -1,7 +1,5 @@
 # Things Missing in High School Computer Science
 
-_Eshaan Punalekar_
-
 ## Introduction ##
 
 Being a high schooler myself on the computer science path, I often find myself searching for different topics in the field that lie past the scope of generic high school courses (AP Computer Science Principles, AP Computer Science Applications, and any other basic courses your high school offers). However, I firmly believe that these high school courses are much needed to grasp the intricacies of complex computer science topics. Consequently, I have decided to create a comprehensive guide that thoroughly explores topics that I believe every high school student looking to leave college with a CS degree should know of. Throughout this guide, I will be providing links to research papers, courses, blogs, and other websites that will provide you with extra information on the topics covered.
@@ -71,6 +69,94 @@ You can also use Google’s [Teachable Machine](https://teachablemachine.withgoo
 And that brings us to the end of the artificial intelligence unit. Hopefully, with the resources and explanations I have provided, you can begin your high school AI experience and eventually learn to develop application-level AI models.
 
 ## Cybersecurity ##
+
+Cybersecurity is a term we hear a lot in the field of computer science. Its definition is often boiled down to talking about phishing scams and downloading viruses, but what exactly is cybersecurity?
+
+According to the United States Cybersecurity and Infrastructure Security Agency (CISA), cybersecurity is the “art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information.” The importance of cybersecurity has skyrocketed in the past decade as the world now relies on computers and the internet in the form of communication (email, smartphones, tablets, etc.), entertainment (video games, social media, apps), transportation (navigation systems), e-commerce (online shopping, credit cards), medicine (medical equipment, medical records), and many more.
+
+Cybersecurity is divided into 2 main categories. The first category includes everything to do with cyberattacks, and the second category includes everything to do with defending against those cyber attacks.
+
+An article by Check Point says that a cyberattack is “an assault launched by cybercriminals using one or more computers against a single or multiple computers or networks. A cyber attack can maliciously disable computers, steal data, or use a breached computer as a launch point for other attacks.”
+
+There are many ways in which a cybercriminal can gain unauthorized access to a computer, and is important to spread awareness of these different cyber attacks. The main cyber attacks are phishing, ransomware, and denial of service.
+
+One of the oldest cyberattacks, dating back to the 1990s, phishing users disguised emails as a weapon. The attackers masquerade as a trusted entity of some kind, often a real or plausibly real person, or a company the victim might do business with. The email recipient is tricked into believing the email is legitimate and is prompted to click a link or download an attachment. Then, a virus is downloaded onto the user’s device which wreaks havoc in the user’s system, often stealing sensitive data.
+
+You can read more about what phishing attacks are and the characteristics of a phishing attack here.
+
+Here is a real-life example of a phishing attack where Facebook and Google saw the disappearance of $100 million. According to a Fortune article written by Jeff John Roberts, in 2013, a 40-something Lithuanian named Evaldas Rmasauskas allegedly hatched a scheme to defraud U.S. tech companies. According to the Justice Department, he forged email addresses, invoices, and corporate stamps to impersonate a large Asian-based manufacturer with whom the tech firms regularly did business. The point was to trick companies into paying for computer supplies. Surprisingly, the scheme worked. Over two years, the corporate imposter convinced accounting departments at the two tech companies to make transfers worth tens of millions of dollars.
+
+Check out this YouTube video on how to do a phishing attack to gain a better understanding.
+
+Next up, we have a ransomware attack. According to ProofPoint Ransomware is a “type of malicious software (malware) that threatens to publish or block access to data or a computer system, usually by encrypting it, until the victim pays a ransom fee to the attacker. In many cases, the ransom demand comes with a deadline. If the victim doesn’t pay in time, the data is gone forever.” In recent years, the frequency of ransomware attacks has skyrocketed with major companies in North America and Europe falling victim to the hands of many cybercriminals.
+
+You can read more about ransomware attacks on the CISA website here.
+
+A real-life example of a ransomware attack is the app CovidLock. This type of ransomware infects a victim’s via malicious files promising to offer more information about the disease. However, once installed, CovidLock encrypts data from Android devices and denies data access to victims, essentially locking the device. To be granted access to their devices, victims must pay a ransom of USD 100 per device. 
+
+Check out this YouTube video to learn how ransomware attacks add more policy challenges to the US congress’ plates.
+
+And last but not the least, we have denial of service attacks. According to PaloAlto Networks, a denial of service (DoS) attack is “an attack meant to shut down a machine or network, making it inaccessible to its intended users. DoS attacks accomplish this by flooding the target with traffic or sending it information that triggers a crash. In both instances, the DoS attack deprives legitimate users (i.e. employees, members, or account holders) of the service or resources they expected.” 
+
+You can read more about DoS attacks here.
+
+Now, a real-life example. According to A10 Networks, Amazon Web Services was hit by a huge DoS attack in February 2020. The attackers targeted an unidentified AWS customer using a technique called Connectionless Lightweight Directory Access Protocol (CLDAP) Reflection. This technique relies on vulnerable CLDAP servers and “amplifies the amount of data sent to the victim’s IP address by 56 to 70 times. The attack lasted for 3 days.
+
+To learn more, check out this YouTube video on DoS attacks.
+
+As you can see, cyberattacks are quite deadly and can cost users tons of money. However, it is important to recognize that most cyberattacks can be prevented.
+There are numerous reports of companies that have been attacked by hackers/cybercriminals and lost significant revenue. While these threats look very complex and highly sophisticated to the inexperienced eye, most of them can be prevented by establishing the right security measures.
+
+So, according to an article by leaf, here are 7 ways that you can protect your systems from cybercriminals.
+
+1. Keep your software and systems fully up to date
+Cyber-attacks often occur because many victims’ computer systems are not fully up to date, leaving weaknesses that hackers exploit and gaining access to your network. Once in your device, it is often too late to take preventative action. 
+To counteract this, it’s smart to invest in a patch management system that will manage all your software and system updates, keeping your system resilient and up to date. Other mobile applications like McAfee continuously remind mobile and laptop users to update their software systems.
+Check out McAfee here. McAfee also offers numerous other antivirus features, so you can explore their website to see how these work to gain a deeper understanding of cybersecurity.
+
+2. Ensure Endpoint Protection
+According to McAfee, “endpoint security is the practice of securing endpoints or entry points of end-user devices such as desktops, laptops. and mobile devices from being exploited by malicious actors and campaigns. Today’s endpoint protection systems are designed to quickly detect, analyze, block, and contain attacks in progress.”
+Check out ESET endpoint protection here. Their website further explains how endpoint protection works and how it helps protect users and companies.
+3. Install a Firewall
+Based on a defined set of security rules, a firewall, which is a security network that monitors incoming and outgoing network traffic, decides whether to allow or block specific traffic. This way, a Firewall can protect your device from blocking any malware from entering your system.
+Again, McAfee offers excellent Firewall protection. You can read more about how Firewalls work on their website.
+
+4.Backup your data
+In the event of a cyberattack, it is important to have your data backed up to avoid serious downtime, loss of data, and serious financial loss.
+Different ways to backup your data are using a USB stick, an external hard drive, etc.
+Control access to your systems
+One entry into your computer systems could be physical. In a public workplace, someone could stick a USB stick into your computer port without your knowledge. This could download some malware or unwanted software.
+
+5. Wifi security
+Connecting your computer/electronic device to a secured Wifi network is very important because it prevents hackers from accessing your wireless network and stealing data using your Wifi.
+
+6.Passwords
+This one is quite obvious, but it’s important to change around passwords with different accounts to prevent a hacker from accessing all accounts at once.
+
+Now, this is just the tip of the iceberg. There are so many topics under cybersecurity that I haven’t covered in this section of the guide, however, I will be providing you with resources to help you discover (if you have one) your path in cybersecurity.
+
+Check out this free cybersecurity course for beginners offered by IBM on Coursera.
+
+You can also check out this free cybersecurity fundamentals course offered by the Rochester Institute of Technology on edX.
+Onto the more specific courses.
+
+Here is a free online course offered by UC Irvine on Coursera. In the course, students are introduced to the field of cybersecurity with a focus on the domain of security and risk management. Topics include the fundamentals concepts and goals of cybersecurity (the CIA triad), security governance design, the NIST cybersecurity framework, relevant laws and regulations, and the roles of policies, strategies, and procedures in cybersecurity governance.
+
+You can find another free course offered by Saint Petersburg State University on Coursera here. This is a great course that gives you an all-around understanding of cybersecurity, social media, big data, and how all are used and manipulated by governments and other groups to influence population groups.
+
+Next, we have a free online course offered by the Rochester Institute of Technology on edX. The course is about digital forensics, which involves the investigation of computer-related crimes to obtain evidence to be presented in a court of law. In the course, you will learn the principles and techniques for digital forensics investigation and about core forensics procedures to ensure court admissibility of evidence. You will learn how to perform a forensic investigation and will be guided through forensic procedures and review and analyze forensic reports. 
+
+You can find a free online course offered by MIT on edX here. This course will prepare anyone who wants to work with agencies that are worried about their vulnerability to cyberattacks. Through a series of lectures, case studies, simulations, debriefings, and short assigned readings, you will learn what cities can and should do to reduce their vulnerabilities. The course also includes checklists of various kidneys that cybersecurity vulnerability assessors need to ask and answer.
+
+The next free online course, offered by the Rochester Institute of Technology on edX, can be found here. In this course, you will examine the various areas of network security including intrusion detection, evidence collection, and defense against cyber attacks. The issues and facilities available to both the intruder and data network administrator will also be examined to illustrate their effect. You will learn the principles and concepts of wired and wireless data network security and will be guided through a series of labs and experiments to explore various mechanisms for securing data networks including physical layer mechanisms, filters, applications, and encryption. You will also analyze attack/defend scenarios and determine the effectiveness of particular defense deployments against attacks.
+
+Here is a free online course offered by the Rochester Institute of Technology on edX. This course will learn the key principles of risk analysis, risk assessment, and risk mitigation for information security using qualitative and quantitative methodologies.
+
+And finally, check out this short, 40 minute YouTube tutorial that covers coding for cybersecurity. It covers cybersecurity projects and stresses the importance of python in cybersecurity. You can skip the first half of the tutorial if you wish because it covers the fundamentals of cybersecurity which you have already covered.
+
+Finally, we have reached the end of our cybersecurity unit. Once again, I hope the resources I have provided you with are helpful enough for you to begin your high school cybersecurity experience, and hopefully help you discover whether cybersecurity is a topic worth pursuing in college.
+
+
 ## Web Development/Design ##
 ## Software/App Development ##
 ## Real-World Application ##
